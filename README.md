@@ -1,5 +1,8 @@
 # project-hovercraft
-project 2016 estei bachelor3 
 
-hackster:
+Hovercraft Project 2016 ESTEI
+
+Hackster.io :
 https://www.hackster.io/121318/the-hovercraft-project-ceb96a
+
+
